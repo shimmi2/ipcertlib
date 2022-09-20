@@ -1,0 +1,15 @@
+{
+    "name": "tsimek/ipcertlib",
+    "description": "STARNET network IP login and certification library",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Tomáš Šimek",
+            "email": "tomas@simek.info"
+        }
+    ]
+}
